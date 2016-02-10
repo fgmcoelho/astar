@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1347641326 source:/home/fernandocoelho/sandbox/Astarv2/games_types.c
+	"games_types.h"
+
+1347641326 es.h"
+
+1347641326 /home/fernandocoelho/sandbox/Astarv2/games_types.h
+	<stdlib.h>
+
+1389396198 
+
+1389042398 source:/home/fernandocoelho/sandbox/Astarv2/pathfinding.c
+	"pathfinding.h"
+	"modifiedHeap.h"
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+
+1390157319 h>
+
+1389039731 /home/fernandocoelho/sandbox/Astarv2/pathfinding.h
+	"list.h"
+	"modifiedHeap.h"
+	"pool.h"
+
+1389042433 source:/home/fernandocoelho/sandbox/Astarv2/main.c
+	<stdio.h>
+	<string.h>
+	"pathfinding.h"
+
+1390156432 ng.h"
+
+1394736318 source:/home/fernandocoelho/sandbox/Astarv2.2/main.c
+	<stdio.h>
+	<string.h>
+	"pathfinding.h"
+	<stdio.h>
+	<string.h>
+	"pathfinding.h"
+
+1390213807 /home/fernandocoelho/sandbox/Astarv2.2/pathfinding.h
+	"list.h"
+	"modifiedHeap.h"
+	"pool.h"
+	"list.h"
+	"modifiedHeap.h"
+	"pool.h"
+
+1394736867 source:/home/fernandocoelho/sandbox/Astarv2.2/pathfinding.c
+	"pathfinding.h"
+	"modifiedHeap.h"
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"pathfinding.h"
+	"modifiedHeap.h"
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+
+1390156432 source:e:\projects\astarv2.2\main.c
+	<stdio.h>
+	<string.h>
+	"pathfinding.h"
+
+1389396198 e:\projects\astarv2.2\pathfinding.h
+	"list.h"
+	"modifiedHeap.h"
+	"pool.h"
+
+1390157319 source:e:\projects\astarv2.2\pathfinding.c
+	"pathfinding.h"
+	"modifiedHeap.h"
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+
+1394739918 source:c:\users\fernando\downloads\sandbox\sandbox\astarv2.2\main.c
+	<stdio.h>
+	<string.h>
+	"pathfinding.h"
+
+1390217407 c:\users\fernando\downloads\sandbox\sandbox\astarv2.2\pathfinding.h
+	"list.h"
+	"modifiedHeap.h"
+	"pool.h"
+
